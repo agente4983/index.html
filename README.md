@@ -1,0 +1,1 @@
+El Guardián es una plataforma avanzada de inteligencia artificial impulsada por la tecnología de Mistral API. Diseñada para ofrecer respuestas precisas, asistencia en consultas complejas y generación de contenido de alta calidad en tiempo real.
